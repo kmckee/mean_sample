@@ -1,0 +1,15 @@
+{
+  "name": "mean_app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle McKee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.1",
+    "jade": "^1.3.1"
+  }
+}
